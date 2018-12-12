@@ -15,7 +15,7 @@ function preload(){
 	
 	Path= loadImage('Path.jpg')
 	
-	song= loadSound("Arlt_et_les_artistes_denfance_-_Est-ce_que_cest_le_vent.mp3")
+	song= loadSound("ArltetlesartistesdenfanceEstcequecestlevent.mp3")
 } 
 
 function setup(){
