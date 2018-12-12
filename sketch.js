@@ -5,12 +5,12 @@ var song
 var Path
 
 function preload(){
-	France[0] = loadImage('Eiffel_Tower_Clip_Art.png')
-	France[1]= loadImage('Eiffel_Tower_Clip_Art.png') 
-	France[2]= loadImage('Eiffel_Tower_Clip_Art.png')
-	France[3]= loadImage('Eiffel_Tower_Clip_Art.png')
-	France[4]=loadImage('Eiffel_Tower_Clip_Art.png')
-	France[5]=loadImage('Eiffel_Tower_Clip_Art.png')
+	France[0] = loadImage('image.png')
+	France[1]= loadImage('image.png') 
+	France[2]= loadImage('image.png')
+	France[3]= loadImage('image.png')
+	France[4]=loadImage('image.png')
+	France[5]=loadImage('image.png')
 
 	
 	Path= loadImage('Path.jpg')
