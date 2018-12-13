@@ -25,7 +25,7 @@ function setup(){
 	touristSlider.position (450,50)
 	touristSlider.size (100,50)
 	
-	touristSlider2 = createSlider(100,500,500)
+	touristSlider2 = createSlider(0,500,500)
 	touristSlider2.position(450,25)
 	touristSlider2.size(100,50)
 	
